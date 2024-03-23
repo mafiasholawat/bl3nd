@@ -1,7 +1,7 @@
 {
   "name": "mafiasholawat",
-  "version": "0.1.0",
-  "private": true,
+  "version": "1.1.4",
+  "private":
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -25,3 +25,5 @@
     "eslint-config-next": "14.1.4"
   }
 }
+https://github.com/mafiasholawat/bl3nd.git
+
